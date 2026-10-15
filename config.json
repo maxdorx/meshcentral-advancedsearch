@@ -1,0 +1,18 @@
+{
+  "name": "Advanced Search (My Devices)",
+  "shortName": "advancedsearch",
+  "version": "0.1.0",
+  "author": "maxdorx",
+  "description": "Instant, case-insensitive search across visible MeshCentral device details using the existing My Devices Filter box.",
+  "hasAdminPanel": false,
+  "homepage": "https://github.com/maxdorx/meshcentral-advancedsearch",
+  "changelogUrl": "https://raw.githubusercontent.com/maxdorx/meshcentral-advancedsearch/main/CHANGELOG.md",
+  "configUrl": "https://raw.githubusercontent.com/maxdorx/meshcentral-advancedsearch/main/config.json",
+  "downloadUrl": "https://github.com/maxdorx/meshcentral-advancedsearch/archive/refs/heads/main.zip",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxdorx/meshcentral-advancedsearch.git"
+  },
+  "versionHistoryUrl": "https://api.github.com/repos/maxdorx/meshcentral-advancedsearch/tags",
+  "meshCentralCompat": ">=1.0.0"
+}
