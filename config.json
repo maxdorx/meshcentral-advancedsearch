@@ -1,7 +1,7 @@
 {
   "name": "Advanced Search (My Devices)",
   "shortName": "advancedsearch",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "maxdorx",
   "description": "Instant, case-insensitive search across visible MeshCentral device details using the existing My Devices Filter box.",
   "hasAdminPanel": false,
